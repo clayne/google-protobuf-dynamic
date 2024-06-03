@@ -1,8 +1,6 @@
 #include "mapper.h"
 #include "dynamic.h"
 
-#include "perl_unpollute.h"
-
 #include <upb/pb/encoder.h>
 #include <upb/pb/decoder.h>
 

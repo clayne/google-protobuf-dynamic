@@ -9,6 +9,7 @@
 
 #include "EXTERN.h"
 #include "perl.h"
+#include "perl_unpollute.h"
 
 using namespace google::protobuf::compiler;
 using namespace google::protobuf;

@@ -1,11 +1,10 @@
 #ifndef _GPD_XS_MAPPER_CONTEXT_INCLUDED
 #define _GPD_XS_MAPPER_CONTEXT_INCLUDED
 
-#include "perl_unpollute.h"
-
 #include "EXTERN.h"
 #include "perl.h"
 #include "ppport.h"
+#include "perl_unpollute.h"
 
 #include <vector>
 #include <list>

@@ -1,5 +1,6 @@
 %module{Google::ProtocolBuffers::Dynamic};
 
+#include "perl_unpollute.h"
 #include "introspection.h"
 
 #include <google/protobuf/descriptor.h>

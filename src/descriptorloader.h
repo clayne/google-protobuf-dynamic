@@ -1,8 +1,6 @@
 #ifndef _GPD_XS_DESCRIPTORLOADER_INCLUDED
 #define _GPD_XS_DESCRIPTORLOADER_INCLUDED
 
-#include "perl_unpollute.h"
-
 #include "sourcetree.h"
 
 #include <google/protobuf/compiler/importer.h>

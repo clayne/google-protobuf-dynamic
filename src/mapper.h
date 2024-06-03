@@ -1,8 +1,6 @@
 #ifndef _GPD_XS_MAPPER_INCLUDED
 #define _GPD_XS_MAPPER_INCLUDED
 
-#include "perl_unpollute.h"
-
 #include "ref.h"
 
 #include <upb/pb/encoder.h>
@@ -15,6 +13,7 @@
 #include "EXTERN.h"
 #include "perl.h"
 #include "ppport.h"
+#include "perl_unpollute.h"
 
 #include "thx_member.h"
 #include "transform.h"

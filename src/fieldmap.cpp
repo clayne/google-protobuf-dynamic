@@ -1,7 +1,5 @@
 #include "fieldmap.h"
 
-#include "perl_unpollute.h"
-
 #include <algorithm>
 
 using namespace std;

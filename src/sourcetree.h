@@ -1,8 +1,6 @@
 #ifndef _GPD_XS_SOURCETREE_INCLUDED
 #define _GPD_XS_SOURCETREE_INCLUDED
 
-#include "perl_unpollute.h"
-
 #include <google/protobuf/compiler/importer.h>
 
 #include "unordered_map.h"

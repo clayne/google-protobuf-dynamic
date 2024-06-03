@@ -1,12 +1,11 @@
 #ifndef _GPD_XS_FIELDMAP_INCLUDED
 #define _GPD_XS_FIELDMAP_INCLUDED
 
-#include "perl_unpollute.h"
-
 #include "unordered_map.h"
 
 #include "EXTERN.h"
 #include "perl.h"
+#include "perl_unpollute.h"
 
 #include <vector>
 

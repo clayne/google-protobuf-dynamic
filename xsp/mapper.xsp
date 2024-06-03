@@ -4,6 +4,7 @@
 #include "EXTERN.h"
 #include "perl.h"
 #include "XSUB.h"
+#include "perl_unpollute.h"
 
 #include "mapper.h"
 

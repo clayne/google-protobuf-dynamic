@@ -1,8 +1,6 @@
 #ifndef _GPD_XS_DYNAMIC_INCLUDED
 #define _GPD_XS_DYNAMIC_INCLUDED
 
-#include "perl_unpollute.h"
-
 #include "upb/bridge.h"
 
 #include "pb/decoder.h"
@@ -14,6 +12,7 @@
 
 #include "EXTERN.h"
 #include "perl.h"
+#include "perl_unpollute.h"
 
 namespace gpd {
 
