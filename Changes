@@ -2,6 +2,10 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+0.42_07   2024-06-03 10:52:12 CEST
+
+    - Blind fix for compilation error
+
 0.42_06   2023-11-27 14:59:01 CET
 
     - Fix encoding of tied/magical hashes as protobuf maps
