@@ -2,6 +2,10 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+0.43      2024-06-04 11:23:51 CEST
+
+    - Release 0.42_07 as stable without changes
+
 0.42_07   2024-06-03 10:52:12 CEST
 
     - Blind fix for compilation error
@@ -29,7 +33,7 @@ Revision history for {{$dist->name}}
 
 0.42_02   2023-11-13 12:29:58 CET
 
-    - Avoid issues with enum vlaues that clash with "special" Perl names
+    - Avoid issues with enum values that clash with "special" Perl names
       (e.g. STDERR, BEGIN, ...)
     - Speed up map key encoding
     - Fix tests on Perl 5.38 (patch by José Joaquín Atria)
